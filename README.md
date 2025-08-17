@@ -20,9 +20,9 @@ This web application allows users to upload their resume in PDF format and uses 
 
 ## Technology Used:
 
--Frontend-HTML,CSS,JAVASCRIPT
+- Frontend-HTML,CSS
 
- -Backend-Python,Flask,pdfplumber,spaCy (en_core_web_sm model)
+- Backend-Python,Flask,pdfplumber,spaCy (en_core_web_sm model)
 
 
 ### Deployment (Optional)
@@ -53,4 +53,4 @@ AI-Powered-web-app/
 │   ├── style.css
 │   └── images/
 │       └── screenshot.png
-├── resumes/       <-- (optional, for uploaded resumes)
+├── resumes/ 
