@@ -1,4 +1,4 @@
-# AI-Powered-web-app
+# AI-Resume-Screener
 
 
 ## Overview:
