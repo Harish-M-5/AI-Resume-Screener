@@ -2,7 +2,7 @@
 
 
 ## Overview:
-This web application allows users to upload their resume in PDF format and uses Natural Language Processing (NLP) to extract key skills from the content. It then compares those skills with predefined job requirements and displays whether the candidate is selected or not, along with a match percentage
+This web application allows users to upload their resume in PDF format and uses Natural Language Processing (NLP) to extract key skills from the content. It then compares those skills with predefined job requirements and displays whether the candidate is selected or not along with  match percentage
 
 
 ## Features:
@@ -34,7 +34,6 @@ http://127.0.0.1:8000/
 <img width="1920" height="1080" alt="Screenshot 2025-07-19 095854" src="https://github.com/user-attachments/assets/471ce079-fd5f-4320-9eed-b552c40bfed3" />
 <img width="1920" height="1080" alt="Screenshot 2025-07-19 095957" src="https://github.com/user-attachments/assets/5384785e-a68b-4fa6-8cc3-b28d424cd81a" />
 <img width="1920" height="1080" alt="Screenshot 2025-07-19 100045" src="https://github.com/user-attachments/assets/89412b20-c70b-44ed-9121-e30018f5cdc6" />
-website-http://127.0.0.1:8000/
 
 
 ## Output Images:
